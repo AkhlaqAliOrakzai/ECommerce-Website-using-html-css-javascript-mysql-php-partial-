@@ -1,11 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------	
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------	
-Demo Links:
-
-https://drive.google.com/file/d/1IX5OJQ6tCfkX5KBb_EGR5nhublRIrvIT/view?usp=sharing
-https://drive.google.com/file/d/1yGdnl6zrCNAHV8A3zwCdjZSESbY33t39/view?usp=sharing
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
 Project Deatils:
 
 This projetc based on E-Commerce where people can shopping online easily. It's web based and we connect database in the backend so that we maintain the record 
@@ -17,17 +11,6 @@ Instructions:
 First of all extract files and then install xampp if not available and copy this folder into C:xampp/htdocs then open xampp and start apache and mysql and go to 
 a browser and write localhost/<this folder name>/index.php 
 -> For admin side write localhost/<this folder>/Admin/index.php
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
-Work Division:
-
-admin side -> M.Kamil
-Client side -> Akhlaq Ali
-
------------------------------------------------------------------------------------------------------------------------------------------------------------------------	
-Group Members:
-021-19-0039 Mohammad Kamil
-051-19-0004 Akhlaq Ali
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------	
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------	
